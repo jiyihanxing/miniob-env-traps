@@ -76,3 +76,5 @@ description: MiniOB / OceanBase 数据库大赛环境坑速查——改了代码
 
 遇到「改了没生效 / 卡住 / 状态对不上」时，先把现象对到坑表的**现象列**；
 对上了就直接照「对策」做；对不上再回到「原则 2」逐项直接核实。
+
+<!-- OB-S:PI7nqi7aITWgcjAUSMuPUw -->
