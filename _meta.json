@@ -1,0 +1,8 @@
+{
+  "name": "miniob-env-traps",
+  "description": "MiniOB / OceanBase 数据库大赛的环境坑速查：改了代码不生效、日志找不到、脚本挂住、构建产物损坏、git 状态骗人、提测几秒失败且无信息。",
+  "version": "1.0.0",
+  "author": "jiyihanxing",
+  "tags": ["database", "miniob", "oceanbase", "debugging", "ci"],
+  "license": "Apache-2.0"
+}
